@@ -1,4 +1,8 @@
 console.log("Hello World");
+//you can also use another method by storing variable
+let message = "Hello World";                             
+console.log(message);
+        
 console.log("Thankyou Governer Sindh kamran Khan Tessori To This Initiatives");
 console.log("I'm the Student of your IT class at monday morning 9:00 am");
 console.log("now today's my 2nd class at Governor house")
